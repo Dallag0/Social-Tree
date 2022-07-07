@@ -13,4 +13,15 @@ O projeto foi inspirado por um projeto do [Figma](https://github.com/Dallag0/Soc
 
 ![Projeto Figma](https://github.com/Dallag0/Social-Tree/blob/main/assets/ideia%20para%20projeto.png)
 
-![Meu Projeto]()
+## Linguagens usadas
+
+A linguagem ultilizadas nesse projeto foi
+
+- HTML
+- CSS
+
+# Autor
+
+Gustavo Dallago Ferreira
+
+https://www.linkedin.com/in/gustavo-dallago-45b146200/
