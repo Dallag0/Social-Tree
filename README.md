@@ -1,4 +1,4 @@
-# Social-Tree
+# Social Tree
 https://github.com/Dallag0/Social-Tree/blob/main/license
 
 # Sobre o Projeto
@@ -7,8 +7,10 @@ A aplicação foi feita com os conhecimentos adiquiridos atraves dá [Rockeseat]
 
 O projeto foi feito para agrupar links, com o intuito de facilitar o compartilhamento de suas redes sociais
 
-## Inpeiração do projeto
+## Inspiração do projeto
 
-O projeto foi inspirado por outro projeto do figma
+O projeto foi inspirado por um projeto do [Figma](https://github.com/Dallag0/Social-Tree/blob/main/assets/ideia%20para%20projeto.png)
 
-![Projeto Figma]
+![Projeto Figma](https://github.com/Dallag0/Social-Tree/blob/main/assets/ideia%20para%20projeto.png)
+
+![Meu Projeto]()
