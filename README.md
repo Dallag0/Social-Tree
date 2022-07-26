@@ -24,4 +24,4 @@ A linguagem ultilizadas nesse projeto foi
 
 Gustavo Dallago Ferreira
 
-https://www.linkedin.com/in/gustavo-dallago-45b146200/
+https://www.linkedin.com/in/gustavo-dallago-ferreira-45b146200/
